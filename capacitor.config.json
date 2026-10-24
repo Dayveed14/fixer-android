@@ -1,0 +1,23 @@
+{
+  "appId": "app.fixerng",
+  "appName": "Fixer",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#0d1442",
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false,
+      "backgroundColor": "#0d1442",
+      "showSpinner": false
+    },
+    "Keyboard": {
+      "resize": "body"
+    },
+    "SystemBars": {
+      "insetsHandling": "native",
+      "style": "DARK"
+    }
+  }
+}

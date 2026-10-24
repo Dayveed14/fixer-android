@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fixer navy: the status bar, navigation bar and window background. -->
+    <color name="fixerNavy">#0D1442</color>
+</resources>

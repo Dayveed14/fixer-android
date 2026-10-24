@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /blog
+Allow: /contact
+Allow: /community
+Allow: /shipment-policy
+Allow: /help
+Allow: /privacy
+Allow: /cookies
+Allow: /userarticle/
+Allow: /uservideo/
+
+# Auth, checkout, and logged-in areas — no SEO value, and content only
+# renders after login anyway.
+Disallow: /login
+Disallow: /register
+Disallow: /shipment
+Disallow: /dashboard
+Disallow: /book
+Disallow: /mailin
+Disallow: /diagnosis
+Disallow: /registerdevice
+Disallow: /user/
+Disallow: /userappointment/
+Disallow: /userjob/
+Disallow: /usershipments
+Disallow: /techniciandashboard
+Disallow: /technician/
+Disallow: /admindashboard
+Disallow: /adminarticles
+Disallow: /admin
+Disallow: /admin/
+Disallow: /admintickets
+Disallow: /article/
+Disallow: /adminvideos
+Disallow: /adminvideos/
+
+Sitemap: https://fixerng.app/sitemap.xml
